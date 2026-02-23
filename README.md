@@ -1,4 +1,4 @@
-# Simple Data-Analysis Project - Coffee Stores
+# Simple Data Analysis Project - Coffee Stores
 
 A simple python script that will take a csv file containing transactions from multiple Coffee Stores to create a pdf report showing earnings, popular products and sales of each store, it will also create a sqlite database organizing transactions into tables for each store.
 
